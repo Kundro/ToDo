@@ -1,0 +1,31 @@
+.input {
+    height: 27px;
+    margin-left: 42%;
+    background-color: rgb(245, 255, 254);    
+ }
+ 
+ .delete {
+     color: rgb(15, 100, 100);
+     margin-left: 42%;
+     height: 30px;
+     font-weight: bolder;
+     background-color: rgb(194, 255, 250);
+     border-radius: 10%;
+     text-decoration: none;
+     display: inline-block;
+     border-radius: 10px;
+     font-family: 'Montserrat', sans-serif;
+     text-transform: uppercase;
+     letter-spacing: 2px;
+     background-image: linear-gradient(to right, #9EEFE1 0%, #8476e0 51%, #9EEFE1 100%);
+     box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+     transition: .5s;
+ }
+ 
+ .done {
+     background-color: rgb(194, 255, 250);
+     font-weight: bold;
+     height: 27px;
+     border-radius: 20%;
+     background-image: linear-gradient(to right, #9EEFE1 0%, #8476e0 51%, #9EEFE1 100%);
+ }

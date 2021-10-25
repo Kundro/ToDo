@@ -1,0 +1,11 @@
+.body { 
+    padding-top: 50px;
+    background-color: hsl(203, 92%, 90%);
+}   
+
+.H1 {
+    font-size: 120%;
+    color: darkcyan;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
